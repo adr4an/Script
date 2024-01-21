@@ -7,8 +7,8 @@ public class script {
  
     }
 
-    public static func(){
-        System.out.println("Error message.. ");
+    public static void func(){
+        System.out.println("Successful.. ");
     }
 
 }
