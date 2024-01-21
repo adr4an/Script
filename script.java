@@ -3,12 +3,12 @@ public class script {
 
     public static void main(String[] args) {
         
-        func();
+        add(5, 10);
  
     }
 
-    public static void func(){
-        System.out.println("Successful.. ");
+    public static int add(int a, int b){
+        return a + b;
     }
 
 }
